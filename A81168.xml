@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal for the relief of debtors, and speedy payment of their creditors</title>
+            <author>Culpeper, Thomas, Sir, 1626-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81168</idno>
+            <idno type="STC">Wing C7557</idno>
+            <idno type="STC">ESTC R217698</idno>
+            <idno type="EEBO-CITATION">99896910</idno>
+            <idno type="PROQUEST">99896910</idno>
+            <idno type="VID">132799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal for the relief of debtors, and speedy payment of their creditors</title>
+                  <author>Culpeper, Thomas, Sir, 1626-1697.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Sir Thomas Culpeper.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  England --  Early works to 1800.</term>
+               <term>Debt --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132799:1" rendition="simple:additions"/>
+            <p>Humble Propoſal For the Relief of DEBTORS, And ſpeedy Payment of their CREDITORS.</p>
+            <p>London Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132799:2"/>
+            <pb n="1" facs="tcp:132799:2" rendition="simple:additions"/>
+            <head>An humble PROPOSAL for the reliefe of DEBTO<g ref="char:V">Ʋ</g>RS, and ſpeedy payment of their CREDITO<g ref="char:V">Ʋ</g>RS.</head>
+            <p>HOw conſiderable a part of the Gentry of this King<g ref="char:EOLhyphen"/>dom groans under the Burthen of Incombrance, without any Proſpect of clearing or not encrea<g ref="char:EOLhyphen"/>ſing their Debts, is too manifeſt: Yet it may not be improper briefly to obſerve, how this evil affects all Parties, as well Creditours as Debtours, The Creditour up<g ref="char:EOLhyphen"/>on a good Mortgage ſeems finally ſecure; But in the mean time, without actual Entry, ſuffers both in the want of his preſent Income, and long forbearance of his principal Sum, minority of times intervening: Having entered and being in Poſſeſſion, he bocomes the Borrowers Servant to manage his Eſtate upon uneaſy terms liable to Account: Improve he cannot prudently, nor ſcarce duly repair; and whilſt the Property is thus unſetled, the Eſtate is ſo far from Improve<g ref="char:EOLhyphen"/>ment, (how capable ſoever) that frequeutly it ſinks in Va<g ref="char:EOLhyphen"/>lue, if not to the Lenders dammage, (which ſometines happens) yet to the great hurt of the Owner and Common<g ref="char:EOLhyphen"/>wealth. Seldom he commands his Debt without mutual trouble and vexation, (by reaſon of the many difficulties and obſtructions in the preſant ſale of Land) which is too apt to beget ill Neighbourhood and unkindneſs betwixt Friends. Yet this is the Lendors beſt condition, for Credi<g ref="char:EOLhyphen"/>tours upon Perſonal Security are more dangerouſly ob<g ref="char:EOLhyphen"/>noxious to the unhandſom ſhifts and practices of too many Borrowers. With Debtours it is much worſe, eſpecially
+<pb n="2" facs="tcp:132799:3"/>if their Debts overtop their Credit: Like Conſumptive Perſons, they converſe with nothing but daily and ſenſible decay, condemned to perpetual Bondage, from which cer<g ref="char:EOLhyphen"/>tainly many of them would ranſome themſelves by ſelling almoſt at any Rate, but are continually fruſtrated and Tan<g ref="char:EOLhyphen"/>talized: Either thoſe that would Purchaſe of them cannot command their Sums, (the caſe of too many fair Creditours) or the Land not being for the preſent letten, or not letten to ſatisfaction; no particular thereof will be accepted with<g ref="char:EOLhyphen"/>out ruinous abatements, or ſome unreaſonable Covenants and Conditions are impoſed by ſevere Purchaſers, or ſome needleſs ſeruples raiſed by difficult Counſel, or ſome miſ<g ref="char:EOLhyphen"/>chievous tricks and delayes contrived by extorting Interlo<g ref="char:EOLhyphen"/>pers: Upon theſe and the like accounts it happens, that fair Eſtates are ſwallowed up, Juſt Debts unſatisfyed, Civil Creditours driven to rigorous and extream courſes, Well-meaning Debtours inſolvent, Sureties expoſed by their prin<g ref="char:EOLhyphen"/>cipals, Due Payment (the life-blood of Commerce) obſtructed, the Land it ſelfe neglected and diſparaged, the Bad enriched by the ſpoyles of Good men.</p>
+            <p>So ſpreading and contagious is the Nature of Debt, eſpe<g ref="char:EOLhyphen"/>cially where Land is cheap, Markets falling, and the pay<g ref="char:EOLhyphen"/>ment of Rents generally caſual; that we cannot with Rea<g ref="char:EOLhyphen"/>ſon hope, the vaſt Bulk of our preſant Incumbrance will e<g ref="char:EOLhyphen"/>ver clear it ſelf, or be cleared by any gradual means; Ra<g ref="char:EOLhyphen"/>ther we have cauſe to fear the further progreſs of it, not vi<g ref="char:EOLhyphen"/>ſibly to be prevented without ſome integral Expedient: Wherefore it is humbly propoſed; <hi>That all Debtours (or at leaſt thoſe that have borrowed upon real Security) may be allowed to tender their Creditours Payment in Lands of equal value, at eighteen or twenty years Purchaſe, prized in the par<g ref="char:EOLhyphen"/>ticular with ſuch moderate abatement of former Rents, where Farms are unletten, as ſhall be judged reaſonable, with refe<g ref="char:EOLhyphen"/>rence to the fall of Lands; which payment Creditours refuſing, ſhall from thenceforth, claime no <g ref="char:V">Ʋ</g>ſe-money: And that Cre<g ref="char:EOLhyphen"/>ditours, after legal demand and lapſe of convenient time, may
+<pb n="3" facs="tcp:132799:3" rendition="simple:additions"/>have ſuch payments decreed of Courſe; The Methods and Cir<g ref="char:EOLhyphen"/>cumſtances of Proceeding being left to the Wiſdome of Authority.</hi>
+            </p>
+            <p>Seldom is any Expedeient ſo adjuſted, as to comply with all concernments; ſhould our Laws be tryed by that Touch<g ref="char:EOLhyphen"/>ſtone, there would not want Objectors againſt the beſt of them; It is therefore held ſufficient, if they be profitable to the Majority, oppreſſive to none, and if upon the whole matter the good from them expected outvie the evil ſurmiſed, which herein will eaſily appear by comparing the Motives with the Objections.</p>
+            <p>For Motives, it is manifeſt, that many honeſt Borrowers will thereby be ſpeedily diſenthralled, whoſe condition o<g ref="char:EOLhyphen"/>therwiſe ſeems almoſt deſperate; Creditours, who now complain of fatal diſappointment, will command their juſt Debts: The Land (which is our only real and conſidera<g ref="char:EOLhyphen"/>ble fund) will not only recover, but greatly advance its price, when there ſhall be few Sellers upon Extremity, or Purchaſers upon Advantage to beat down its value; Credit will become generally ſound, and the high rate of Intereſt (ſupported by Incumbrance) may then indeed ſink of it ſelf without a Law; much of our Stock (now hurtfully managed at Uſe) will be naturally turned into Trade and Improve<g ref="char:EOLhyphen"/>ment; And thouſands of Brokers and other Factours of Ex<g ref="char:EOLhyphen"/>tortion may hereafter employ their approved Abilities to the Service and Benefit of their Countrey.</p>
+            <p>The principal Objections are theſe; 1. It ſuppoſes an Ar<g ref="char:EOLhyphen"/>bitrary Proceeding without Precedent, and Powers of diffi<g ref="char:EOLhyphen"/>cult Execution. 2. What if the Title ſhould prove intricate? 3. The Land may be remote or inconvenient to the Lender. 4. Lenders may in ſome Caſes pay more than the preſent Value. 5. Borrowers will complain of being abridged in their Equity.</p>
+            <p>To the firſt it is anſwered; That whatſoever is enacted by common conſent in Parliament, ſhould not be counted Arbitrary, though it were without Precedent; But are there not Precedents for deciding of important Cauſes in a ſumma<g ref="char:EOLhyphen"/>ry way? How many ſuch Commiſſions have we lately known? The late rigorous Act for the Rebuilding of <hi>London</hi>
+               <pb n="4" facs="tcp:132799:4" rendition="simple:additions"/>is <hi>inſtar omnium</hi> to this purpoſe: Neither indeed can ſuch Au<g ref="char:EOLhyphen"/>thorities be here preſumed to miſcarry, their Rules being ſo eaſily aſcertained.</p>
+            <p>To the ſecond, The title in Mortgages is preſumed alread<g ref="char:EOLhyphen"/>y to have been ſcanned, and may in many other Caſes eaſily be cleared; If the fault be on the Borrowers part, the Lender may then fairely refuſe, but <hi>Valeat quantum valere poteſt.</hi> However if the former Security be continued to make the Sale, the Lender cannot be prejudiced.</p>
+            <p>To the third and fourth, Why ſhould the Creditour de<g ref="char:EOLhyphen"/>cline the purchaſe of that Land for its remoteneſs, which he accepted in Mortgage, or which was at leaſt the fund of that Credit which he gave the Borrower, the Profits whereof ſhould therefore competently anſwer his Intereſt without ſuch overplus of Security as is now adayes demanded? Can he aſ<g ref="char:EOLhyphen"/>ſign any real difference betwixt Lending and Purchaſing, ſave the avoiding of juſt Duties? Let him then content him<g ref="char:EOLhyphen"/>ſelf with the Advantages he hath ſo long enjoyed, and conſi<g ref="char:EOLhyphen"/>der the Borrowers Hordſhips, who having all this while paid double Taxes, <hi>(viz.)</hi> both his own and his Creditours too, is thereby not only plunged into Debt, but again more grievouſ<g ref="char:EOLhyphen"/>ly puniſhed in the abortive Sale of his Inheritance: Where<g ref="char:EOLhyphen"/>as the Creditour hath indeed no cauſe to diſtruſt his Bargain, the value whereof will be neer doubled by the general clea<g ref="char:EOLhyphen"/>ring of Incumbrance, and equality of future Burthens.</p>
+            <p>To the fiſt, No Borrower can juſtly complain of that Ri<g ref="char:EOLhyphen"/>gour, which after default by him incurred, doth not impaire, but much improve his preſent Condition.</p>
+            <p>That this is not a mere Project, nor altogether New, what higher Evidence can be offered, than that memorable Edict provided by the Wiſdome of <hi>Julius Caeſar,</hi> (in times not unparallel to ours for Incombrance of Eſtates) related by <hi>Suetonius,</hi> and thus <hi>Engliſhed</hi> in the Tranſlation of that famous Hiſtorian? <hi>As touching Money lent out, when he had quite put down the expectation of Cancelling Debts,</hi> (a thing that was often moved) <hi>He decreed at length, that all Debtours ſhould ſatisfie
+<pb n="5" facs="tcp:132799:4" rendition="simple:additions"/>their Creditours in this manner; namely, by an Eſtimate made of their Poſſeſſions, according to the worth and value as they Purchaſed them before the Civil Warre, deducting out the Prin<g ref="char:EOLhyphen"/>cipal whatſoever had been pay'd, or ſet down in the Obligation for the <g ref="char:V">Ʋ</g>ſe.</hi> By which Condition the fourth part well neer of the Money credited forth was loſt.</p>
+            <p>It was the known Policy of the <hi>Roman</hi> State, after Civil Warrs, impartially to quit and cancel all manner of Debts; Hard meaſure one would think, for innocent Perſons, as it were, to forfeit not the Uſe only but the Principal; yet private Intereſt, it ſeems, muſt ſtoop to buoy up the Publick: They conſidered, That the Riches of a Countrey, nothing is ſo Eſſential as the value of Land, to the value of Land no<g ref="char:EOLhyphen"/>thing ſo deſtructive as great Incumbrance; that by Civil Warre, not only former Debts were conſtantly augmented, but new ones vaſtly multiplyed; That by reaſon of publick diſtractions, the Rents of Land became generally deſperate, and even the Land it ſelf for the preſent much embaſed in its Price: Creditours, in the mean time, ſcaping the whole brunt, and thereby every where ſupplanting Free-holders. They therefore aptly applyed the quitting of Uſe-money to ballance the loſs of Rents: The diſcharge of Principal Debts to repair the decay of Lands and Landlords. Thus were the common ſufferings fairly deſtributed, and the ſeeds of future evils at once extirpated; there being otherwiſe ſuch a Malig<g ref="char:EOLhyphen"/>nity in the Nature of Civil Warre, that it commonly leaves behinde it a dangerous Poyſon and ferment. Upon ſuch for<g ref="char:EOLhyphen"/>mer Practice the expectation of Cancelling Debts at that time ſeems to have been grounded.</p>
+            <p>From this excellent Edict, it is for our purpoſe remarka<g ref="char:EOLhyphen"/>ble, 1. That Lands were then ſtrictly priſed to the Credi<g ref="char:EOLhyphen"/>tour according to their former values, without any allow<g ref="char:EOLhyphen"/>ance for the fall of Rents. 2. That it was judged a modeſt re<g ref="char:EOLhyphen"/>lief to Debtours, and rather in favour of Creditours, for them to quit only all their Uſe-money incurred during the Civil Warre. 3. That the Law here cited being a Law of
+<pb n="6" facs="tcp:132799:5" rendition="simple:additions"/>publick benefit and private Juſtice, was yet ordained by a Heathen Conquerour, (not to ſay Uſurper) and therefore cannot but better become a lawful Chriſtian Government? 4. That this Law ſeems mainly to have gratified the Nobili<g ref="char:EOLhyphen"/>ty, who yet were moſt of them ſworn Enemies to <hi>Caeſar:</hi> Whereas ſuch a Law in our time, would redreſs and oblige, not barely his Majeſties Loyal Subjects, but the moſt approved aſſertours of the Cauſe, thereby chiefly incumbred in their Eſtates.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
